@@ -1,7 +1,7 @@
 // das ist mein Workspace!
 
-function start() {
-    return " ich bin der Dieter!" + parms + "!"
+function test(vorName) { 
+    return vorName;
+    
 }
-
-console.log(Dieter());
+console.log("Hello Manuela");
