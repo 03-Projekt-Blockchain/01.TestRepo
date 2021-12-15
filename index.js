@@ -4,4 +4,4 @@ function test(vorName) {
     return vorName;
     
 }
-console.log("Hello Manuela");
+console.log("Hello Test");
